@@ -1,0 +1,5 @@
+1. Traverse linear directory path
+2. Find files in the linear dir path (all types of files, along with wildcards)
+3. During traversal, when you find **, start recursion
+4. Combine 1, 2, 3
+5. When you find a file, execute it / or push the path to an array
